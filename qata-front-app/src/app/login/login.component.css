@@ -1,0 +1,30 @@
+.d-flex{
+    border: 3px solid teal;
+    padding: 5%;
+    margin: 11%;
+}
+
+h2{
+    margin-bottom: 7vh;
+    color: teal;
+}
+
+label{
+    color: teal;
+}
+
+input{
+    width: 90%;
+    border: 1px solid teal;
+}
+
+.alert.alert-danger{
+    width: 90%;
+    padding: 1.3%;
+}
+
+.btn.btn-info{
+    width: 30%;
+}
+
+
